@@ -1,0 +1,8 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: DESKTOP-96JNCCJ
+      cluster-nodes: 127.0.0.1:9200
+
+server:
+  port: 8085
